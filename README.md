@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm **Vin Sen**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Final+Year+Software+Engineering+Student;Looking+for+Internship+Opportunities;Software+Developer;AI+%26+Web+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Bachelor+of+Software+Engineering;Final+Year+Student;Looking+for+Internship+Opportunities;Software+Developer;AI+%26+Web+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
