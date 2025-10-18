@@ -1,15 +1,13 @@
 # Hi there! 👋 I'm **Vin Sen**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Bachelor+of+Software+Engineering;Final+Year+Student;Looking+for+Internship+Opportunities;Software+Developer;AI+%26+Web+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Final+Year+Software+Engineering+Student;Looking+for+Internship+Opportunities;" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-🎓 **Final Year Software Engineering Student** passionate about building innovative solutions  
-💼 **Actively seeking internship opportunities** to apply my skills in real-world projects  
-🌱 Currently exploring **AI applications** and **modern web technologies**  
-💡 Love turning ideas into code and solving complex problems  
+🎓 Final Year Software Engineering Student passionate about building innovative software
+💡 Love turning ideas into code and solving problems  
 🎯 Always eager to learn new technologies and contribute to meaningful projects  
 
 ## 🛠️ Tech Stack
@@ -34,7 +32,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🤖 Sentiment Analysis Application</h3>
+        <h3 align="center">Sentiment Analysis Application</h3>
         <div align="center">
           <a href="https://github.com/noobrs/ai-app" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=noobrs&repo=ai-app&theme=tokyonight" alt="AI App" />
@@ -43,32 +41,32 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">📱 Image Watermarking Application</h3>
+        <h3 align="center">Image Watermarking Application</h3>
         <div align="center">
           <a href="https://github.com/noobrs/ip-app" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=noobrs&repo=ip-app&theme=tokyonight" alt="IP App" />
           </a>
-          <p><strong>Computer Vision Project</strong> - Robust watermarking techniques applied on images</p>
+          <p><strong>Image Processing Project</strong> - Invisible robust watermarking techniques applied on images</p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">📚 DSA Assignment</h3>
+        <h3 align="center">Charity Centre Management System</h3>
         <div align="center">
           <a href="https://github.com/noobrs/dsa-assignment" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=noobrs&repo=dsa-assignment&theme=tokyonight" alt="DSA Assignment" />
           </a>
-          <p><strong>Data Structures & Algorithms</strong> - Coursework implementation and problem-solving</p>
+          <p><strong>Data Structures & Algorithms Project</strong> - Coursework implementation and problem-solving</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🌐 GUI & Web App</h3>
+        <h3 align="center">E-Commerce System for Gadgets</h3>
         <div align="center">
           <a href="https://github.com/noobrs/AMIT3083-GUI-and-Web-App" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=noobrs&repo=AMIT3083-GUI-and-Web-App&theme=tokyonight" alt="GUI and Web App" />
           </a>
-          <p><strong>Academic Project</strong> - GUI and web development coursework with modern frameworks</p>
+          <p><strong>Java Web Application Project</strong> - web development with JSP, Servlet, and JDBC</p>
         </div>
       </td>
     </tr>
@@ -81,7 +79,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🛠️ Job Management Mechanics</h3>
+        <h3 align="center">Job Management Mechanics Mobile Applications</h3>
         <div align="center">
           <a href="https://github.com/JokerYong0402/job_management_machanics" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=JokerYong0402&repo=job_management_machanics&theme=tokyonight" alt="Job Management Mechanics" />
@@ -89,7 +87,7 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🏡 Home Deco Assignment</h3>
+        <h3 align="center">Home Decoration E-Commerce System</h3>
         <div align="center">
           <a href="https://github.com/JokerYong0402/Home-Deco-Asgm" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=JokerYong0402&repo=Home-Deco-Asgm&theme=tokyonight" alt="Home Deco Asgm" />
@@ -99,7 +97,7 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🤝 JomMeet Base</h3>
+        <h3 align="center">JomMeet - Web Application to Socialize</h3>
         <div align="center">
           <a href="https://github.com/clouudo/JomMeet_Base" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=clouudo&repo=JomMeet_Base&theme=tokyonight" alt="JomMeet Base" />
@@ -107,7 +105,7 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🤖 AI Recruitment FYP</h3>
+        <h3 align="center">AI Recruitment System</h3>
         <div align="center">
           <a href="https://github.com/JokerYong0402/ai-recruitment-fyp" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=JokerYong0402&repo=ai-recruitment-fyp&theme=tokyonight" alt="AI Recruitment FYP" />
